@@ -3,7 +3,8 @@
   margin: 0px;
   padding: 20px;
 }
-.container-fluid a {
+
+a {
   text-decoration: none;
   color: #9FB8AD;
   font-size: 30px;
@@ -15,7 +16,8 @@ main {
   padding-bottom: 20px;
   text-align: center;
 }
-main article .col-md-3-col-lg-3 {
+
+article .col-md-3-col-lg-3 {
   background-color: green;
   border: 2px solid black;
 }
@@ -39,11 +41,10 @@ h1 {
 
 h2 {
   background-color: #3F403F;
-  height: 50px;
+  height: 20px;
   text-align: center;
   font-family: "Gluten", cursive;
-  padding: 13px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 h3 {
